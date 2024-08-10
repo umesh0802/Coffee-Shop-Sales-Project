@@ -40,6 +40,8 @@ Location Analysis: Sales distribution across different locations, highlighting t
 Customer Insights: Demographic analysis of customers.
 
 
+Power BI Dashboard Preview:
+![image](https://github.com/user-attachments/assets/cebb2766-c1ae-4a92-a460-6b1e979a8acb)
 
 
 License
