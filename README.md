@@ -1,59 +1,74 @@
-**Coffee Shop Sales Dashboard**
+# ☕ Coffee Shop Sales Dashboard (Power BI)
+
+## 📌 Project Overview
+
+This Power BI project visualizes and analyzes 6 months of sales data from a coffee shop (January 2023 – July 2023). It delivers key business insights through interactive dashboards, enabling data-driven decision-making for inventory, revenue, and performance tracking.
 
 
-Project Overview
-This repository contains a comprehensive Power BI dashboard designed to analyze and visualize coffee shop sales data over a 6-month period, from January 2023 to June 2023. The dashboard leverages advanced features of Power BI, including heatmaps, interactive visualizations, DAX queries, and Power BI query, to provide deep insights into sales performance, customer behavior, and product trends.
+---
+
+## 🎯 Objectives
+
+- Track sales performance across products and time
+- Analyze customer purchase behavior and frequency
+- Identify high-revenue items and seasonal trends
+- Build an executive-ready multi-page dashboard
 
 
+---
 
-**Features**
+## 📊 Dashboard Features
 
-Heatmaps: Visual representation of data intensity to easily identify high and low sales periods.
-Interactive Visualizations: Dynamic charts and graphs that allow users to filter data by various dimensions, such as time, product, and location.
-DAX Queries: Utilized for complex calculations and aggregations to support detailed analysis.
-Tool Tip: Used to enhance the dashboard and provide more information.
-Power Query: Data transformation and preparation using Power Query for seamless integration and analysis.
-
-
-
-Data Source:
-The dataset used in this project contains sales records from a coffee shop chain over a 6-month period, from January 2023 to June 2023. The data includes the following fields:
-Transaction Date,
-Product Category,
-Product Name,
-Quantity Sold,
-Sales Revenue,
-Location of Sale.
+- 📅 **Monthly Sales Overview**  
+- 🧾 **Product-Wise Revenue & Profit Analysis**  
+- 📍 **Branch/Location-Based Sales Breakdown**  
+- 🔄 **Interactive Filters**: Time, Category, Item, Region  
+- 📈 **KPIs**: Total Sales, Profit Margin, Transactions, Avg. Order Value  
 
 
+---
+
+## 🧰 Tools & Technologies
+
+- **Platform:** Power BI  
+- **Language:** DAX (for measures and calculated columns)  
+- **Data Preparation:** Power Query Editor  
+- **File:** `Coffee Shop Sales Project.pbix`
 
 
-**The dashboard provides the following key insights:**
+---
+
+## 📁 File Structure
+
+📦 Coffee-Shop-Sales-Project
+┣ 📄 Coffee Shop Sales Project.pbix
+┣ 📄 Coffee Shop Sales Project pdf
+┗ 📄 README.md
 
 
-Sales Performance: Monthly, weekly, and daily sales trends with month-over-month comparisons.
+---
 
-Product Analysis: Top-selling products, product categories, and most revenue generating.
+## 📸 Dashboard Preview
 
-Location Analysis: Sales distribution across different locations, highlighting the best-performing stores.
-
-Customer Insights: Demographic analysis of customers.
+![Screenshot 2025-07-10 120507](https://github.com/user-attachments/assets/110d424d-4c8f-462b-861a-1f3ba6439ecd)
 
 
-Power BI Dashboard Preview:
-![image](https://github.com/user-attachments/assets/cebb2766-c1ae-4a92-a460-6b1e979a8acb)
+---
+
+## 🚀 How to Use
+
+1. Open Power BI Desktop  
+2. Load the `.pbix` file:  
+File > Open > Coffee Shop Sales Project.pbix
+3. Interact with the visual filters and explore multi-page dashboards
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
 
+## 📬 Contact
 
+👤 **Umesh Kanojia**  
+🔗 [LinkedIn](https://www.linkedin.com/in/umesh-lalman-kanojia/)  
+📧 umeshkanojia1199@gmail.com
 
-
-Contact
-For any questions or feedback, please contact:
-Umesh Kanojia
-
-Email: ukkanojia88@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/umesh-kanojia-1a4383233/
+---
