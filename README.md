@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This Power BI project visualizes and analyzes 6 months of sales data from a coffee shop (January 2023 – July 2023). It delivers key business insights through interactive dashboards, enabling data-driven decision-making for inventory, revenue, and performance tracking.
+This Power BI project visualizes and analyzes 6 months of sales data from a coffee shop (January 2023 – June 2023). It delivers key business insights through interactive dashboards, enabling data-driven decision-making for inventory, revenue, and performance tracking.
 
 
 ---
